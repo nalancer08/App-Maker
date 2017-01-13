@@ -1,0 +1,5 @@
+# Prevent download of log files
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule (.*)\.(log)$ - [F,NC]
+</IfModule>

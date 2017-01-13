@@ -1,0 +1,63 @@
+{
+	"tabBar": {
+
+		"width": 380,
+		"height": 50,
+		"x": 20,
+		"y": 30,
+		"bg_color": "FF3399",
+		"bg_image": "www.appuilders.com/appmaker/71627n723/image1",
+		"buttons": [
+			{
+				"name": "b1",
+				"width": 20,
+				"height": 50,
+				"bg_color": "CCC",
+				"action": "aun_no_se",
+				"text": "User",
+				"icon": "www.appuilders.com/appmaker/71627n723/icon1",
+				"pressed": "FFF"
+			},
+			{
+				"name": "b2",
+				"width": 20,
+				"height": 50,
+				"bg_color": "CCC",
+				"action": "aun_no_se",
+				"text": "Phone",
+				"icon": "www.appuilders.com/appmaker/71627n723/icon2",
+				"pressed": "FFF"
+			},
+			{
+				"name": "b3",
+				"width": 20,
+				"height": 65,
+				"bg_color": "CCC",
+				"action": "aun_no_se",
+				"text": "Payment",
+				"icon": "www.appuilders.com/appmaker/71627n723/icon3",
+				"pressed": "FFF"
+			},
+			{
+				"name": "b4",
+				"width": 20,
+				"height": 50,
+				"bg_color": "CCC",
+				"action": "aun_no_se",
+				"text": "Settings",
+				"icon": "www.appuilders.com/appmaker/71627n723/icon4",
+				"pressed": "FFF"
+			},
+			{
+				"name": "b5",
+				"width": 20,
+				"height": 50,
+				"bg_color": "CCC",
+				"action": "aun_no_se",
+				"text": "Menu",
+				"icon": "www.appuilders.com/appmaker/71627n723/icon5",
+				"pressed": "FFF"
+			}
+		]
+	}
+}

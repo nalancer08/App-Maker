@@ -1,0 +1,5 @@
+# Prevent download of the SQLite databases
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	RewriteRule (.*)\.(sqlite)$ - [F,NC]
+</IfModule>
